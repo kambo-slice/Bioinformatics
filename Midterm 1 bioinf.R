@@ -64,3 +64,6 @@ write.fasta(Biostrings::translate(homo6),"Homo_sapiens_6","/Users/kamilkawiecki/
 #checked 4 and 10 for good measure but they were related closer to gorillas
 
 
+#7 screenshot is saved on Github
+
+
